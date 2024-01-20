@@ -25,7 +25,6 @@ function returnMovies(url) {
                 div_column.appendChild(div_card);
                 div_row.appendChild(div_column);
                 
-
             });
         })
         .catch(error => {
